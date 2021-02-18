@@ -1,0 +1,8 @@
+#title:hover {
+    background-color: blue;
+    color: white;
+}
+
+input:focus {
+    background-color: red;
+}
